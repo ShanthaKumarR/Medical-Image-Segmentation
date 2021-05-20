@@ -66,3 +66,5 @@ X = data_explorations(train_dir = train_dir, label_dir = label_dir, classes_dict
 X.load_data_label()
 X.data_visualization()
 X.label_visualization()
+
+
